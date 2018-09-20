@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "**HTML5 Audio Player** uses the HTML5 audio API to create playlists and play, pause and skip through tracks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeyems/audioplayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeyems/audioplayer/issues"
+  },
+  "homepage": "https://github.com/adeyems/audioplayer#readme",
+  "keywords": [],
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
